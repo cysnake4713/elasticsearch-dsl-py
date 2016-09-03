@@ -3,6 +3,10 @@
 Changelog
 =========
 
+2.2.0 (dev)
+-----------
+ * Renamed ``Result`` and ``ResultMeta`` to ``Hit`` and ``HitMeta`` respectively
+
 2.1.0 (2016-06-29)
 ------------------
  * ``inner_hits`` are now also wrapped in ``Response``
