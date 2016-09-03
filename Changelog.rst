@@ -6,6 +6,7 @@ Changelog
 2.2.0 (dev)
 -----------
  * Renamed ``Result`` and ``ResultMeta`` to ``Hit`` and ``HitMeta`` respectively
+ * ``Response`` now stores ``Search`` which it gets as first arg to ``__init__``
 
 2.1.0 (2016-06-29)
 ------------------
